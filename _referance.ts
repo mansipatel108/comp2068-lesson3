@@ -1,0 +1,1 @@
+///<referance path = "typings/tsd.d.ts" />
